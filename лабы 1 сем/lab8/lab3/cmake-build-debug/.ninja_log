@@ -1,0 +1,24 @@
+# ninja log v5
+3	483	6931150422036372	CMakeFiles/untitled4.dir/main.cpp.obj	dba70c534518ba25
+6	427	6931146747616608	CMakeFiles/untitled4.dir/Func_string.cpp.obj	6bf53ac23c41a90b
+7	509	6931150422316003	CMakeFiles/untitled4.dir/Menu.cpp.obj	c12355a2c6b5d232
+509	648	6931150423649553	untitled4.exe	cf4e78bc9ba51be7
+0	223	6931760599514880	build.ninja	517ee986bb94c5e3
+3	391	6931762202452874	CMakeFiles/untitled4.dir/main.cpp.obj	dba70c534518ba25
+8	422	6931762202756631	CMakeFiles/untitled4.dir/Menu.cpp.obj	c12355a2c6b5d232
+422	774	6931762205893079	untitled4.exe	cf4e78bc9ba51be7
+7	484	6931782049804948	CMakeFiles/untitled4.dir/Menu.cpp.obj	c12355a2c6b5d232
+2	489	6931782049764954	CMakeFiles/untitled4.dir/main.cpp.obj	dba70c534518ba25
+489	669	6931782051997381	untitled4.exe	cf4e78bc9ba51be7
+2	303	6931789374146946	CMakeFiles/untitled4.dir/Func_string.cpp.obj	6bf53ac23c41a90b
+6	316	6931789374272517	CMakeFiles/untitled4.dir/Menu.cpp.obj	c12355a2c6b5d232
+316	405	6931789375117461	untitled4.exe	cf4e78bc9ba51be7
+3	317	6931794049733532	CMakeFiles/untitled4.dir/main.cpp.obj	dba70c534518ba25
+7	331	6931794049882497	CMakeFiles/untitled4.dir/Menu.cpp.obj	c12355a2c6b5d232
+331	430	6931794050832457	untitled4.exe	cf4e78bc9ba51be7
+2	279	6931795793841916	CMakeFiles/untitled4.dir/main.cpp.obj	dba70c534518ba25
+6	282	6931795793865441	CMakeFiles/untitled4.dir/Menu.cpp.obj	c12355a2c6b5d232
+282	392	6931795794916420	untitled4.exe	cf4e78bc9ba51be7
+3	296	6931799699229569	CMakeFiles/untitled4.dir/main.cpp.obj	dba70c534518ba25
+7	327	6931799699543765	CMakeFiles/untitled4.dir/Menu.cpp.obj	c12355a2c6b5d232
+327	425	6931799700420724	untitled4.exe	cf4e78bc9ba51be7

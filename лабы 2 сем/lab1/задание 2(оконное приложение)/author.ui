@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>author</class>
+ <widget class="QDialog" name="author">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">author {
+background: rgb(126,33,245);
+background: -moz-linear-gradient(90deg, rgba(126,33,245,1) 0%, rgba(102,22,221,1) 33%, rgba(81,29,184,1) 63%, rgba(0,212,255,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(126,33,245,1) 0%, rgba(102,22,221,1) 33%, rgba(81,29,184,1) 63%, rgba(0,212,255,1) 100%);
+background: linear-gradient(90deg, rgba(126,33,245,1) 0%, rgba(102,22,221,1) 33%, rgba(81,29,184,1) 63%, rgba(0,212,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=&quot;#7e21f5&quot;,endColorstr=&quot;#00d4ff&quot;,GradientType=1);
+}</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>52</x>
+     <y>69</y>
+     <width>301</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Автор: Решетнёв Арсений&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Группа 253504&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

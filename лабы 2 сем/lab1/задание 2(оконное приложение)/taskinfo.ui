@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TaskInfo</class>
+ <widget class="QDialog" name="TaskInfo">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>552</width>
+    <height>492</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>2</x>
+     <y>19</y>
+     <width>551</width>
+     <height>491</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Дана рейтинговая таблица футболистов, содержащая ФИО 
+футболиста, клуб, амплуа, количество забитых мячей, сумму штрафных очков. 
+Требуется: 
+• выдать список из 10 самых успешных игроков текущего сезона, имеющих 
+максимальное количество забитых мячей и минимальное количество 
+штрафных очков; 
+• выдать список из 10 игроков с максимальной суммой штрафных очков; 
+• отсортировать список по убыванию количества забитых мячей. </string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
